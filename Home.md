@@ -36,6 +36,7 @@ Welcome to the Brackets wiki! Here are some resources to help you get started.
 * [Coding Conventions](https://github.com/adobe/brackets/wiki/Brackets-Coding-Conventions)
 * [Notes on CodeMirror](https://github.com/adobe/brackets/wiki/Notes-on-CodeMirror)
 * [Localization](https://github.com/adobe/brackets/wiki/Localization)
+* [ICU License](http://source.icu-project.org/repos/icu/icu/tags/release-58-rc/LICENSE)
 
 ### Extensions
 * **[How to Find & Install Extensions](https://github.com/adobe/brackets/wiki/Brackets-Extensions)**
