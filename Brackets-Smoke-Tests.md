@@ -56,16 +56,14 @@ Smoke test steps
 1. Repeat the steps 17 to 23.
 1. `File > New`
 1. Change the encoding to EUC-JP and copy the following content
-
-    ```
-    水（みず）は、化学的には化学式 H2O で表される水素と酸素の化合物。
+```水（みず）は、化学的には化学式 H2O で表される水素と酸素の化合物。
 
  
-    水面から跳ね返っていく水滴 
-    海水常温常圧では無味、無臭、ごくわずかに青緑色を呈す透明の液体である。地球表面、特に海洋に豊富に存在する。生物の生存、日常生活をは
-    じめ、工業や医療などに不可欠であり、人類にとって最も身近な物質の一つである。人体の60%から70%程度が水である。この様に身近である水だ
-    が、宇宙全体から見ると液体の水として存在している量は少ない。
-    ```
+水面から跳ね返っていく水滴 
+海水常温常圧では無味、無臭、ごくわずかに青緑色を呈す透明の液体である。地球表面、特に海洋に豊富に存在する。生物の生存、日常生活をはじめ、工業や医療などに不可欠であり、人類にとって最も身近な物質の一つである。人体の60%から70%程度が水である。この様に身近である水だが、宇宙全体から見ると液体の水として存在している量は少ない。
+
+固体は氷、液体は水、気体は水蒸気と呼ばれる。温度の高い液体の水を湯（ゆ）と言い、特に温度の高いものを熱湯（ねっとう）と言う。理・工学的な分野では熱水（ねっすい）という語も用いられる。
+```
 1. Save the file as euc-jp.css and then close it.
 1. Try to reopen the file it should display the contents as desired.
 1. In the project tree, right-click on ``temp.js`` and choose "Rename". Rename the file to ``temp.txt``. Verify that the name in the working set and title bar changes, the code coloring disappears and the mode changes to "Text".
