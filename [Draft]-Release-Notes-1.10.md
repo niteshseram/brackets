@@ -80,10 +80,6 @@ Community contributions to Brackets
 * [Makes the content of script and style tags collapsible](https://github.com/adobe/brackets/pull/13198) by [thehogfather](https://github.com/thehogfather)
 * [Do not initialize dontCloseTags](https://github.com/adobe/brackets/pull/13183) by [ficristo](https://github.com/ficristo)
 * [Create tests for Disabled context menu items for unsaved files / #12806 #13134](https://github.com/adobe/brackets/pull/13178) by [leeyimin](https://github.com/leeyimin)
-* [eslint stylistic rules](https://github.com/adobe/brackets/pull/13177) by [zaggino](https://github.com/zaggino)
-* [Revert "ALF Automation"](https://github.com/adobe/brackets/pull/13168) by [zaggino](https://github.com/zaggino)
-* [Adds Filter Exclusion Name character limit & related UI](https://github.com/adobe/brackets/pull/13155) by [bomanimc](https://github.com/bomanimc)
-* [#7723 - Adding Support For '0x' Notation Color Format](https://github.com/adobe/brackets/pull/13154) by [nyteksf](https://github.com/nyteksf)
 
 
 #### Pulling source code from Git
