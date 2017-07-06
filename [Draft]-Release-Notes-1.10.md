@@ -7,7 +7,7 @@ Brackets now supports more than 40 different file encodings. You can now Open/Sa
 *  **[Forward/Backward navigation in edit history](https://github.com/adobe/brackets/pull/13418)** by [swmitra](https://github.com/swmitra) :
 Navigate backward/forward using Alt-I, Alt-Shift-I across explicit cursor positions.
  
-*  **[Enable/Disable default extensions](https://github.com/adobe/brackets/pull/13044)** by [saurabh95](https://github.com/saurabh95) :
+*  **[Enable/Disable default extensions](https://github.com/adobe/brackets/pull/13136)** by [zaggino](https://github.com/zaggino) :
 You can now enable/disable default extensions, that are shipped with Brackets.
  
 *  **[Search History](https://github.com/adobe/brackets/pull/13237)** by [saurabh95](https://github.com/saurabh95) :
@@ -21,6 +21,9 @@ CSS code hints now support @rule and pseudo selector/element code hints.
  
 *  **[Inline CSS code hints](https://github.com/adobe/brackets/pull/13270)** by [swmitra](https://github.com/swmitra) :
 Brackets now provides CSS code hints in style attribute value in html.
+
+*  **[Live Preview highlight customization](https://github.com/adobe/brackets/pull/12949)** by [Worie](https://github.com/Worie) :
+Live Preview highlight customization (colors of highlight can be customized via user preferences). This shows highlight with clear segregation of different box model layers.
 
 
 _Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.9...release-1.10#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.9...release-1.10#commits_bucket)
