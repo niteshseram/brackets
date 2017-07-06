@@ -39,7 +39,6 @@ Community contributions to Brackets
 -----------------------------------
 
 * [Fix NavigationProvider throwing errors when doc.file is missing](https://github.com/adobe/brackets/pull/13492) by [petetnt](https://github.com/petetnt)
-* [More Robust UUID Handling](https://github.com/adobe/brackets/pull/13476) by [nethip](https://github.com/nethip)
 * [zh-cn](https://github.com/adobe/brackets/pull/13473) by [FallingHeart](https://github.com/FallingHeart)
 * [Fixes translation error in Simplified Chinese](https://github.com/adobe/brackets/pull/13463) by [mjaseem](https://github.com/mjaseem)
 * [Update urls.js](https://github.com/adobe/brackets/pull/13459) by [FallingHeart](https://github.com/FallingHeart)
@@ -50,7 +49,6 @@ Community contributions to Brackets
 * [German Translation](https://github.com/adobe/brackets/pull/13436) by [MarcelGerber](https://github.com/MarcelGerber)
 * [Fix root strings](https://github.com/adobe/brackets/pull/13435) by [MarcelGerber](https://github.com/MarcelGerber)
 * [Problems panel: add an icon per problem to tell which type it is](https://github.com/adobe/brackets/pull/13430) by [ficristo](https://github.com/ficristo)
-* [Change in UUID fetching for first launches](https://github.com/adobe/brackets/pull/13419) by [nethip](https://github.com/nethip)
 * [Various additions and changes to Swedish interface strings](https://github.com/adobe/brackets/pull/13404) by [Lominean](https://github.com/Lominean)
 * [Polish translation update for brackets 1.10](https://github.com/adobe/brackets/pull/13398) by [karmatys](https://github.com/karmatys)
 * [Release](https://github.com/adobe/brackets/pull/13373) by [sharklaser2342345235](https://github.com/sharklaser2342345235)
