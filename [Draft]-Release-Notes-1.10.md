@@ -78,7 +78,6 @@ Community contributions to Brackets
 * [Bootstrap](https://github.com/adobe/brackets/pull/13208) by [dmitrymw](https://github.com/dmitrymw)
 * [Add no-unsafe-negation rule and upgrade grunt-eslint to 19.0.0](https://github.com/adobe/brackets/pull/13199) by [ficristo](https://github.com/ficristo)
 * [Makes the content of script and style tags collapsible](https://github.com/adobe/brackets/pull/13198) by [thehogfather](https://github.com/thehogfather)
-* [Do not initialize dontCloseTags](https://github.com/adobe/brackets/pull/13183) by [ficristo](https://github.com/ficristo)
 * [Create tests for Disabled context menu items for unsaved files / #12806 #13134](https://github.com/adobe/brackets/pull/13178) by [leeyimin](https://github.com/leeyimin)
 
 
