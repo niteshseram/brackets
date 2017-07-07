@@ -7,8 +7,7 @@ Brackets now supports more than 40 different file encodings. You can now Open/Sa
 *  **[Forward/Backward navigation in edit history](https://github.com/adobe/brackets/pull/13418)** by [swmitra](https://github.com/swmitra) :
 Navigate backward/forward using Alt-I, Alt-Shift-I across explicit cursor positions.
  
-*  **[Enable/Disable default extensions](https://github.com/adobe/brackets/pull/13136)** by [zaggino](https://github.com/zaggino) 👍 
-
+*  **[Enable/Disable default extensions](https://github.com/adobe/brackets/pull/13136)** by [zaggino](https://github.com/zaggino) 
 You can now enable/disable default extensions, that are shipped with Brackets.
  
 *  **[Search History](https://github.com/adobe/brackets/pull/13237)** by [saurabh95](https://github.com/saurabh95) :
