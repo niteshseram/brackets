@@ -7,7 +7,8 @@ Brackets now supports more than 40 different file encodings. You can now Open/Sa
 *  **[Forward/Backward navigation in edit history](https://github.com/adobe/brackets/pull/13418)** by [swmitra](https://github.com/swmitra) :
 Navigate backward/forward using Alt-I, Alt-Shift-I across explicit cursor positions.
  
-*  **[Enable/Disable default extensions](https://github.com/adobe/brackets/pull/13136)** by [zaggino](https://github.com/zaggino) :
+*  **[Enable/Disable default extensions](https://github.com/adobe/brackets/pull/13136)** by [zaggino](https://github.com/zaggino) 👍 
+
 You can now enable/disable default extensions, that are shipped with Brackets.
  
 *  **[Search History](https://github.com/adobe/brackets/pull/13237)** by [saurabh95](https://github.com/saurabh95) :
@@ -34,6 +35,7 @@ Known Issues
 ------------
 * _Debug > Run Tests_ is disabled in the installer/DMG distributions of Brackets, because the unit test code is not included. To run unit tests, [pull Brackets from GitHub](https://github.com/adobe/brackets/wiki/How-to-Hack-on-Brackets#wiki-getcode) instead.
 
+* Navigate Backward/Forward feature would be available only as Navigate > menu items in OSX. We will enable keyboard shortcuts in next pre-release.
 
 Community contributions to Brackets
 -----------------------------------
