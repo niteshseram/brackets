@@ -37,6 +37,7 @@ Brackets sends one Health Report update every 24 hours, only while Brackets is r
 * `installedExtensions` - List of installed extensions and their versions - _only_ those that are already published in the [extension registry](https://brackets-registry.aboutweb.com), so non-public or not-yet-released extensions are kept private
 * `bracketsTheme` - Current Brackets Theme
 * `fileStats` - Counts the number of times a file extension known to brackets or any of its extensions is opened. Custom file extensions are not registered.
+* `encoding` - Counts the number of files opened using different encodings.
 * `ProjectDetails` - Details of the number of files in a project and the size in bytes.
 * `searchDetails` - Statistics related to find/replace in files and instant search.
 * `prefNodeSearchDisabled` - Check if user has enabled/disabled Node search.
