@@ -31,8 +31,8 @@ Yes! It has [its own repository](https://github.com/adobe/brackets-registry) on 
 
 ## Removing an extension from the Registry ##
 
-Visit the [Brackets Extension Registry](https://brackets-registry.aboutweb.com/) and sign in as the same GitHub user who originally uploaded the extension. Find the extension in the listing and click the Delete button.
+Visit the [Brackets Extension Registry](https://registry.brackets.io/) and sign in as the same GitHub user who originally uploaded the extension. Find the extension in the listing and click the Delete button.
 
 ## I need some other help! ##
 
-If you have questions that are not answered here, feel free to ask on the [email list](https://groups.google.com/forum/#!forum/brackets-dev). If you have a security or other private issue, feel free to email brackets-registry (at aboutweb.com – the company that is hosting the Brackets Registry).
+If you have questions that are not answered here, feel free to ask on the [email list](https://groups.google.com/forum/#!forum/brackets-dev).
