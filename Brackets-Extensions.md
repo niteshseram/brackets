@@ -10,7 +10,7 @@ You can browse a list of available extensions in the **Available** tab of the Ex
 
 #### The extension listing
 
-The extension listing comes from the online [Brackets Extension Registry](https://brackets-registry.aboutweb.com). If you're an extension author, please [publish your extension to the registry](https://github.com/adobe/brackets/wiki/How-to-write-extensions#publishing-extensions) so it's available for others to find.
+The extension listing comes from the online [Brackets Extension Registry](https://registry.brackets.io). If you're an extension author, please [publish your extension to the registry](https://github.com/adobe/brackets/wiki/How-to-write-extensions#publishing-extensions) so it's available for others to find.
 
 
 ### Removing Extensions
