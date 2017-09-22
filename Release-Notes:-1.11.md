@@ -22,7 +22,7 @@ Community contributions to Brackets
 * [Fix typos [Croatian]](https://github.com/adobe/brackets/pull/13628) by [dbaric](https://github.com/dbaric)
 * ["Getting Started" page in ukrainian language](https://github.com/adobe/brackets/pull/13397) by [yarik-vv](https://github.com/yarik-vv)
 * [- add: doubleclick on search result header closes search results window](https://github.com/adobe/brackets/pull/13624) by [lukaszsobek](https://github.com/lukaszsobek)
-* [Add mapping for stylus mode in LanguageManager](https://github.com/adobe/brackets/pull/13380) by [opl](https://github.com/opl)
+* [Add mapping for stylus mode in LanguageManager](https://github.com/adobe/brackets/pull/13380) by [opl-](https://github.com/opl-)
 * [Upgrade brackets-eslint to 3.2.0](https://github.com/adobe/brackets/pull/13717) by [ficristo](https://github.com/ficristo)
 
 
