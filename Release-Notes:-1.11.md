@@ -1,4 +1,4 @@
-What's New in Release 1.10
+What's New in Release 1.11
 -------------------------
 
 *  **[Support for ES6](https://github.com/adobe/brackets/pull/13635)** by [swmitra](https://github.com/swmitra) :
