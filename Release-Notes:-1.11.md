@@ -14,8 +14,9 @@ _Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release
 
 Community contributions to Brackets
 -----------------------------------
-
+* [Fix lgtm alerts](https://github.com/adobe/brackets/pull/13483) by [xiemaisi](https://github.com/xiemaisi)
 * [Fix extension registry link in README.md](https://github.com/adobe/brackets/pull/13583) by [PikadudeNo1](https://github.com/PikadudeNo1)
+* [Fix CTRL+Space handling while the CodeHintList is open](https://github.com/adobe/brackets/pull/13560) by [petent](https://github.com/petent)
 * [Update strings.js [Croatian]](https://github.com/adobe/brackets/pull/13571) by [diomed](https://github.com/diomed)
 * [On Windows force a 32 bit build until nodejs 64 bit is supported](https://github.com/adobe/brackets/pull/13384) by [ficristo](https://github.com/ficristo)
 * [Fixes wrong function call in ProjectManager.js](https://github.com/adobe/brackets/pull/13611) by [hkirat](https://github.com/hkirat)
@@ -23,6 +24,7 @@ Community contributions to Brackets
 * ["Getting Started" page in ukrainian language](https://github.com/adobe/brackets/pull/13397) by [yarik-vv](https://github.com/yarik-vv)
 * [- add: doubleclick on search result header closes search results window](https://github.com/adobe/brackets/pull/13624) by [lukaszsobek](https://github.com/lukaszsobek)
 * [Add mapping for stylus mode in LanguageManager](https://github.com/adobe/brackets/pull/13380) by [opl-](https://github.com/opl-)
+* [Now reverse inspect can be disabled by setting the 'livedev.enableReverseInspect' pref to false](https://github.com/adobe/brackets/pull/13659) by [saurabh95](https://github.com/saurabh95)
 * [Upgrade brackets-eslint to 3.2.0](https://github.com/adobe/brackets/pull/13717) by [ficristo](https://github.com/ficristo)
 
 
