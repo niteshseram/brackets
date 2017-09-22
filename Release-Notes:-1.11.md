@@ -4,7 +4,7 @@ What's New in Release 1.10
 *  **[Support for ES6](https://github.com/adobe/brackets/pull/13635)** by [swmitra](https://github.com/swmitra) :
 Brackets now supports ES6. Quick-type listing now shows classes, methods, arrow functions, generator functions and much more. Brackets also supports listing of ES6 code, with ESLint defaulting as Javascript linter, as well.
  
-*  **[Brackets on Linux](github.com/adobe/brackets-shell/pull/619)** by [nethip](https://github.com/nethip) :
+*  **[Brackets on Linux](https://github.com/adobe/brackets-shell/pull/619)** by [nethip](https://github.com/nethip) :
 Brackets now offers full support for the Linux platform. With an update to the shell with a new version of CEF, Brackets is now fully functional on Linux.
  
 
