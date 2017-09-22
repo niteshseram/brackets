@@ -16,7 +16,7 @@ Community contributions to Brackets
 -----------------------------------
 * [Fix lgtm alerts](https://github.com/adobe/brackets/pull/13483) by [xiemaisi](https://github.com/xiemaisi)
 * [Fix extension registry link in README.md](https://github.com/adobe/brackets/pull/13583) by [PikadudeNo1](https://github.com/PikadudeNo1)
-* [Fix CTRL+Space handling while the CodeHintList is open](https://github.com/adobe/brackets/pull/13560) by [petetnt](https://github.com/petent)
+* [Fix CTRL+Space handling while the CodeHintList is open](https://github.com/adobe/brackets/pull/13560) by [petetnt](https://github.com/petetnt)
 * [Update strings.js [Croatian]](https://github.com/adobe/brackets/pull/13571) by [diomed](https://github.com/diomed)
 * [On Windows force a 32 bit build until nodejs 64 bit is supported](https://github.com/adobe/brackets/pull/13384) by [ficristo](https://github.com/ficristo)
 * [Fixes wrong function call in ProjectManager.js](https://github.com/adobe/brackets/pull/13611) by [hkirat](https://github.com/hkirat)
