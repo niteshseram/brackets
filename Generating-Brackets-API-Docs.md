@@ -16,7 +16,7 @@ This command installs the node **apify** package globally so you can run it from
 
 ```
 cd ~
-sudo npm install -g apify
+sudo npm install -g jsdocify
 ```
 
 ### Create branch in brackets.io repo
