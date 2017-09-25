@@ -51,6 +51,7 @@ Variable and function names use camelCase (not under_scores):
 > ```
 
 <br/>
+
 Use $ prefixes on variables referring to jQuery objects:
 > Do this:
 >
@@ -65,6 +66,7 @@ Use $ prefixes on variables referring to jQuery objects:
 > ```
 
 <br/>
+
 Use _ prefixes on private variables/methods:
 > Do this:
 >
@@ -81,6 +83,7 @@ Use _ prefixes on private variables/methods:
 > ```
 
 <br/>
+
 Classes and id's in HTML use all lower-case with dashes (-), not camelCase or under_scores:
 > Do this:
 >
@@ -97,6 +100,7 @@ Classes and id's in HTML use all lower-case with dashes (-), not camelCase or un
 > ```
 
 <br/>
+
 Use semicolons:
 > Do this:
 >
@@ -113,6 +117,7 @@ Use semicolons:
 > ```
 
 <br/>
+
 Use double quotes in JavaScript. If a JavaScript string literal _contains_ code within it, use single quotes within the string to avoid escaping.
 > Do this:
 >
@@ -191,6 +196,7 @@ On Arrays, use Array.forEach() or Array.some() rather than $.each() or for loops
 > ```
 
 <br/>
+
 To iterate object keys, use _.forEach() or _.some() rather than $.each() or for-in loops. (This avoids various pitfalls when the keys could have arbitrary values, and matches Array.forEach()'s callback API better).
 > Do this:
 > ```javascript
@@ -215,6 +221,7 @@ To iterate object keys, use _.forEach() or _.some() rather than $.each() or for-
 > ```
 
 <br/>
+
 Use ViewUtils.toggleClass() instead of jQuery.toggleClass(). (This avoids problems with flags that are truthy/falsy but not strictly boolean).
 > Do this:
 > `ViewUtils.toggleClass($listItem, "selected", isSelected);`
