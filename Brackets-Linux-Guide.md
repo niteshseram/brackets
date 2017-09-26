@@ -1,3 +1,11 @@
+# NOTE
+
+As of Brackets 1.11. the Linux version is up-to-date with other platforms and this guide should not be needed anymore.
+
+If some of the issues persists, [do open an issue](https://github.com/adobe/brackets/issues/new)
+
+# Brackets Linux Guide
+
 > Parts of this guide have been contributed by @nathanjplummer and are available at https://nathanjplummer.github.io/Brackets/
 
 How to fix common Brackets issues that may occur with the Linux Operating System.
