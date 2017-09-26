@@ -151,13 +151,11 @@ Code hints are provided by default in a number of places:
     * JS code hints use smart matching — so you can type camel-case initials and other shorthand to filter the hint list more quickly (e.g. type "gsp" for `getScrollPos`).
     * You also get _argument hints_ — while you're typing arguments to a function, an indicator above the cursor lists the expected types of the arguments. Normally this appears automatically, but you can also display it manually by pressing **Ctrl-Shift-Space**. (Nothing is shown if Tern is unsure where the function is defined, however).
 
-### JSLint
+### ESLint
 
-By default, Brackets runs [JSLint](http://www.jslint.com/help.html) on JS files when you initially open them and whenever you save changes. If JSLint finds problems, the results are shown in a panel at the bottom. If your file is clean, you'll see a green checkmark in the status bar instead.
+By default, Brackets runs [ESLint](https://eslint.org/) on JavaScript files when you initially open them and whenever you save changes. If ESLint finds problems, the results are shown in a panel at the bottom. If your file is clean, you'll see a green checkmark in the status bar instead.
 
-JSLint is very picky about formatting. JSLint is very picky about a lot of things. You can hide the JSLint results panel by clicking the close box at the top (the status bar icon will still indicate if JSLint has found problems with either a green checkmark or yellow warning symbol), or you can turn off JSLint completely by unchecking **View > Lint Files on Save**.
-
-Various extensions are available that replace JSLint with a different linting tool.
+See all the configuration options available at [https://eslint.org/docs/user-guide/configuring](https://eslint.org/docs/user-guide/configuring]. You can hide the ESLint results panel by clicking the close box at the top (the status bar icon will still indicate if ESLint has found problems with either a green checkmark or yellow warning symbol), or you can turn off ESLint completely by unchecking **View > Lint Files on Save**.
 
 ### Brackets Health Report
 
@@ -230,11 +228,10 @@ These are all the settings that are currently supported:
 | `highlightMatches` | `false` | Enables automatic highlighting of matching strings throughout the document:<ul><li>`true` — highlight all strings that match the current selection (nothing is highlighted when no selection)</li><li>`{"showToken": true}` — highlight all strings that match the token the cursor is currently in (no selection needed)</li><li>`{"wordsOnly": true}` — highlight only when selection is a complete token</li></ul> |
 | `insertHintOnTab` | `false` | True to insert the currently selected code hint on tab |
 | `jscodehints.noHintsOnDot` | `false` | If true, do not automatically show JS code hints when `.` is typed. |
-| `jslint.options` | `undefined` | An object with the default options for JSLint (see [the JSLint reference](http://www.jslint.com/help.html) for a list of these options). Options specified directly within a JS file will override this preference on a per-option basis (not automatically). |
 | `language.fileExtensions` | `undefined` | Additional mappings from file extension to language name (see [Language Support#Preferences](https://github.com/adobe/brackets/wiki/Language-Support#preferences)) |
 | `language.fileNames` | `undefined` | Additional mappings from file name to language name (see [Language Support#Preferences](https://github.com/adobe/brackets/wiki/Language-Support#preferences)) |
 | `linting.enabled` | `true` | Determines if Code Inspection is on |
-| `linting.prefer` | `undefined` | *Since 1.1.* Array of linters (`CodeInspection` providers) to run first. For example: `["ESLint", "JSLint", "JSHint"]`. If provider on the list is not installed, it will be silently ignored. By default, all the linters will be run. |
+| `linting.prefer` | `undefined` | *Since 1.1.* Array of linters (`CodeInspection` providers) to run first. For example: `["ESLint", "SassLint"]`. If provider on the list is not installed, it will be silently ignored. By default, all the linters will be run. |
 | `linting.usePreferredOnly` | `false` | *Since 1.1.* If set to `true`, then only providers specified in `linting.prefer` will be run (if installed). |
 | `maxCodeHints` | `50` | Maximum code hints displayed at once |
 | `proxy` | `undefined` | The URL of the proxy server used for extension installation (general syntax: "http://username:password&#8203;@server:port/") |
@@ -276,7 +273,7 @@ These are all the settings that are currently supported:
     },
     "language": {
         "javascript": {
-            "linting.prefer": ["ESLint", "JSLint", "JSHint"],
+            "linting.prefer": ["ESLint"],
             "linting.usePreferredOnly": true
         }
     },
