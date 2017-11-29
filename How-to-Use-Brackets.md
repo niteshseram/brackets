@@ -232,6 +232,8 @@ These are all the settings that are currently supported:
 | `language.fileNames` | `undefined` | Additional mappings from file name to language name (see [Language Support#Preferences](https://github.com/adobe/brackets/wiki/Language-Support#preferences)) |
 | `linting.enabled` | `true` | Determines if Code Inspection is on |
 | `linting.prefer` | `undefined` | *Since 1.1.* Array of linters (`CodeInspection` providers) to run first. For example: `["ESLint", "SassLint"]`. If provider on the list is not installed, it will be silently ignored. By default, all the linters will be run. |
+| `livedev.enableReverseInspect` | `true` | False to disable live preview reverse inspect. |
+| `livedev.multibrowser` | `false` | True to enable experimental Live Preview. |
 | `linting.usePreferredOnly` | `false` | *Since 1.1.* If set to `true`, then only providers specified in `linting.prefer` will be run (if installed). |
 | `maxCodeHints` | `50` | Maximum code hints displayed at once |
 | `proxy` | `undefined` | The URL of the proxy server used for extension installation (general syntax: "http://username:password&#8203;@server:port/") |
