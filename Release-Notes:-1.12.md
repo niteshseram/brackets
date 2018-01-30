@@ -37,6 +37,6 @@ _TODO: any brackets-shell updates? which of the below messages are applicable?_
 * A submodule _URL_ was changed this sprint. Run `git submodule sync` and _then_ `git submodule update --init --recursive` to ensure your local source tree reflects the update.
 
 
-Bugs fixed in Release 1.11
+Bugs fixed in Release 1.12
 -------------------------
-For details on the bugs addressed, please refer to [closed Release 1.11 bugs](https://github.com/adobe/brackets/issues?q=is%3Aclosed+milestone%3A%22Release+1.11%22). Not all fixed bugs will be caught by this search query, however.
+For details on the bugs addressed, please refer to [closed Release 1.12 bugs](https://github.com/adobe/brackets/issues?q=is%3Aclosed+milestone%3A%22Release+1.12%22). Not all fixed bugs will be caught by this search query, however.
