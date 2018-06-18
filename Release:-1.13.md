@@ -1,7 +1,3 @@
-_This is a draft!_
---------------------
-_This page will not be finalized until the end of Release 1.13.
-
 What's New in Release 1.13
 -------------------------
 * [AutoUpdate Framework](https://github.com/adobe/brackets/pull/14177) by [mbhavi](https://github.com/mbhavi) : AutoUpdate allows the download of the latest installer in the background. It will performs installation and launch of latest version.
