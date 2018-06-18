@@ -44,6 +44,20 @@ Brackets sends one Health Report update every 24 hours, only while Brackets is r
 * `prefInstantSearchDisabled` - Check if user has enabled/disabled instant search.
 * `AppStartupTime` - Time taken to start Application.
 * `projectLoadTimes` - Time taken to load the project.
+* `fileOpenTimes`
+* `environment` - Type of environment
+* `time` - Time at which data was collected
+* `event.guid` - A randomly-generated, anonymous id
+* `event.user_guid`- A randomly-generated, anonymous id
+* `event.category` - Category of event 
+* `event.subcategory` - Subcategory of event - (JSRefactor, Quick Edit, Quick Docs, Auto Update, Live Preview, Project Settings)
+* `event.type` - Type of event
+* `event.subtype` - Type of Entry point for a particular event 
+* `event.user_agent` - User Agent
+* `event.language` - Brackets locale and OS locale, 5 character code
+* `source.name` - Brackets version
+* `source.platform` - OS from which data has been collected
+* `source.version` - Brackets version
 
 
 **Benefits** - with this data, we can answer questions like:
