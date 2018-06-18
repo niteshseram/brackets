@@ -1,8 +1,8 @@
 What's New in Release 1.13
 -------------------------
-* [AutoUpdate Framework](https://github.com/adobe/brackets/pull/14177) by [mbhavi](https://github.com/mbhavi) : AutoUpdate allows the download of the latest installer in the background. It will performs installation and launch of latest version.
-* [Add drag and drop to move items in FileTreeView](https://github.com/adobe/brackets/pull/13546) by [boopeshmahendran](https://github.com/boopeshmahendran) : Drag and Drop in File Tree feature allows user to move the files and folders without leaving the editor within the project root. All drag and drop file or folder changes made within the project root are performed in real time on the disk.
-* [Enable opening of remote(http|https) files in Brackets](https://github.com/adobe/brackets/pull/14153) by [swmitra](https://github.com/swmitra) : Remote File Open feature adds ability for the user to open a remote file from a URL over http or https inside brackets. User can subsequently save that file to the local disk.
+* [AutoUpdate Framework](https://github.com/adobe/brackets/pull/14177) by [mbhavi](https://github.com/mbhavi) : You can now automatically update Brackets, without leaving the code editor.
+* [Add drag and drop to move items in FileTreeView](https://github.com/adobe/brackets/pull/13546) by [boopeshmahendran](https://github.com/boopeshmahendran) : You can now manipulate folder structure from within Brackets. Move a file/folder from one folder to another with a simple drag and drop.
+* [Enable opening of remote(http|https) files in Brackets](https://github.com/adobe/brackets/pull/14153) by [swmitra](https://github.com/swmitra) : You can now open a remotely hosted web-page from within Brackets. Use Ctrl/Cmd-Shift-O shortcut and supply a URL to quickly open the file and review the code within Brackets.
 
 
 _Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.12...release-1.13#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.12...release-1.13#commits_bucket)
