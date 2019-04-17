@@ -16,7 +16,7 @@ Brackets Health Report is:
 * **Minimal** – every piece of information has a purpose directly tied to making Brackets better.
 * **Optional** – you can always opt out of the Brackets Health Report. But for all the reasons above, we urge you not to!
 
-Adobe is collecting the data on the Health ReportWe're always open to feedback on this feature and how we can make it both more useful to the community, and more comfortable for everyone to use. Please join the community discussion on the [brackets-dev forum](https://groups.google.com/forum/#!forum/brackets-dev) to share your thoughts!
+Adobe is collecting the data on the Health Report. We're always open to feedback on this feature and how we can make it both more useful to the community, and more comfortable for everyone to use. Please join the community discussion on the [brackets-dev forum](https://groups.google.com/forum/#!forum/brackets-dev) to share your thoughts!
 
 
 ## Health Report Preferences
