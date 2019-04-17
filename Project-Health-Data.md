@@ -28,7 +28,7 @@ Brackets sends one Health Report update every 24 hours, only while Brackets is r
 
 ## What Data is Collected?
 
-* `uuid` - A randomly-generated, anonymous id
+* `uuid` - A randomly-generated, pseudonymous id
 * `snapshotTime` - Time the Health Report is sent
 * `os` - OS
 * `bracketsVersion` - Brackets version
@@ -47,8 +47,8 @@ Brackets sends one Health Report update every 24 hours, only while Brackets is r
 * `fileOpenTimes`
 * `environment` - Type of environment (Default is Production).
 * `time` - Time at which data was collected.
-* `event.guid` - A randomly-generated, anonymous id.
-* `event.user_guid`- A randomly-generated, anonymous id.
+* `event.guid` - A randomly-generated, pseudonymous id.
+* `event.user_guid`- A randomly-generated, pseudonymous id.
 * `event.category` - Category of event.
 * `event.subcategory` - Subcategory of event - (JS Refactor, Quick Edit, Quick Docs, Auto Update, Live Preview, Project Settings).
 * `event.type` - Type of event.
