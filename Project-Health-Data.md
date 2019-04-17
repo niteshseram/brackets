@@ -10,7 +10,7 @@ But Brackets isn't just any app – it's open-source, and for a developer tool p
 
 Brackets Health Report is:
 
-* **Anonymous** – the data sent will never include your identity or private information like filenames.
+* **pseudonymous** – the data sent will never include your identity or private information like filenames.
 * **Aggregated** – Brackets does not send individual events – only averages and totals.
 * **Transparent** – [the code is open-source](https://github.com/adobe/brackets/tree/master/src/extensions/default/HealthData), and you can view the data Brackets is sending via _Help > Health Report_. We'll openly share what we learn from the data so the whole community can benefit.
 * **Minimal** – every piece of information has a purpose directly tied to making Brackets better.
