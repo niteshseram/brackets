@@ -6,7 +6,7 @@
 
 Understanding how people use an app helps decide what to build, prioritize when to build it, spot usability problems, and find lurking bugs. As the Brackets project has grown, we need real-world data to get a better picture of how people are using Brackets so we can continue making it even more awesome.
 
-But Brackets isn't just any app – it's open-source, and for a developer tool privacy must be the absolute #1 priority. We only want to gather information in a way that is _transparent and respectful_ to our users. We've looked to other open source projects (particularly the [Firefox Health Report](https://blog.mozilla.org/metrics/2012/09/21/firefox-health-report/)) as models. The data Adobe is collecting can be seen via Help > Health Report.
+But Brackets isn't just any app – it's open-source, and for a developer tool privacy must be the absolute #1 priority. We only want to gather information in a way that is _transparent and respectful_ to our users. We've looked to other open source projects (particularly the [Firefox Health Report](https://blog.mozilla.org/metrics/2012/09/21/firefox-health-report/)) as models. The Data Adobe is collecting can be seen via Help > Health Report.
 
 Brackets Health Report is:
 
