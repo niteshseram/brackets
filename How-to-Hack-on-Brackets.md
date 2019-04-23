@@ -15,7 +15,7 @@ If you're interested in **submitting a pull request**, review the [guidelines fo
 * Git command line tools — follow the setup instructions [on GitHub](https://help.github.com/articles/set-up-git) or download [here](http://git-scm.com/downloads)
 * NodeJS installed (https://nodejs.org/en/download/current/)
 * PHP 7
-* [Composer 1.8.4](https://getcomposer.org/download/)
+* [Composer 1.8.4](https://getcomposer.org/download/) (Make sure that it is added to the path, and the `composer` command works)
 
 ### Setting up your dev environment ###
 
