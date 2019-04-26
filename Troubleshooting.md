@@ -22,12 +22,11 @@ Other information that may help you:
 
 ## <a name="requirements"> </a>System Requirements
 
-* Mac OSX 10.6.8 or newer
-* Windows Vista, 7, or 8/8.1 (x32 and x64) (installer requires administrator access)
-* Linux Ubuntu 12.04 or newer (x32 and x64)
-* Debian Linux 8 or newer (for Debian 7 compatibility see [issue #4816](https://github.com/adobe/brackets/issues/4816))
+* Mac OSX 10.11, 10.12, 10.13, 10.14 
+* Windows 7 with Service Pack 1, Windows 8.1, or Windows 10 (installer requires administrator access)
+* Linux Ubuntu 16.04, 18.04, 18.10 (x32 and x64)
+* Linux Debian 8, 9
 * At least 2 GB of RAM for Live Development
-
 
 ## <a name="installation"> </a>Can't Install Brackets
 
