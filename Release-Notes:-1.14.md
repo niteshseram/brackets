@@ -1,8 +1,7 @@
 What's New in Release 1.14
 -------------------------
-* [AutoUpdate Framework](https://github.com/adobe/brackets/pull/14177) by [mbhavi](https://github.com/mbhavi) : You can now automatically update Brackets, without leaving the code editor.
-* [Add drag and drop to move items in FileTreeView](https://github.com/adobe/brackets/pull/13546) by [boopeshmahendran](https://github.com/boopeshmahendran) : You can now manipulate folder structure from within Brackets. Move a file/folder from one folder to another with a simple drag and drop.
-* [Enable opening of remote(http|https) files in Brackets](https://github.com/adobe/brackets/pull/14153) by [swmitra](https://github.com/swmitra) : You can now open a remotely hosted web-page from within Brackets. Use Ctrl/Cmd-Shift-O shortcut and supply a URL to quickly open the file and review the code within Brackets.
+* [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333 and shubhsnov](https://github.com/subhashjha333) : Description
+* [Php Tooling Extensions Using LSP Framework](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum) : Description
 
 
 _Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.13...release#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.13...release#commits_bucket)
@@ -27,8 +26,6 @@ Community contributions to Brackets
 * [Fixing the mac debug build](https://github.com/adobe/brackets-shell/pull/657) by [vickramdhawal](https://github.com/vickramdhawal)
 * [Update CSSProperties.json for text-align and text-justify](https://github.com/adobe/brackets/pull/14563) by [narayani28](https://github.com/narayani28)
 * [Update notification - based on current platform](https://github.com/adobe/brackets/pull/14655) by [swmitra](https://github.com/swmitra)
-* [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333 and shubhsnov](https://github.com/subhashjha333)
-* [Php Tooling Extensions Using LSP Framework](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum)
 * [switching from anonymous to pseudonymous to align with the definition…](https://github.com/adobe/brackets/pull/14687) by [niteskum](https://github.com/niteskum)
 * [Removing the old Brackets CLA check](https://github.com/adobe/brackets/pull/14684) by [shubhsnov](https://github.com/shubhsnov)
 * [Fixed LSP Linting Synchronization Issues](https://github.com/adobe/brackets/pull/14685) by [niteskum](https://github.com/niteskum)
