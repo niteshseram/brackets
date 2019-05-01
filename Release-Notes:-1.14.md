@@ -42,7 +42,7 @@ Community contributions to Brackets
 * [Fix : Error occurs when dismissing QuickOpen dialog when no document is open](https://github.com/adobe/brackets/pull/14698) by [shubhsnov](https://github.com/shubhsnov)
 * [Changes to send data only once per 24 hours](https://github.com/adobe/brackets/pull/14695) by [SnchitGrover](https://github.com/SnchitGrover)
 * [Adding Code Hints Description Box for handling additional hint information in LSP](https://github.com/adobe/brackets/pull/14696) by [shubhsnov](https://github.com/shubhsnov)
-* m [Capability to Support Document & Project Symbols provided by a Language Server](https://github.com/adobe/brackets/pull/14697) by [shubhsnov](https://github.com/shubhsnov)
+* [Capability to Support Document & Project Symbols provided by a Language Server](https://github.com/adobe/brackets/pull/14697) by [shubhsnov](https://github.com/shubhsnov)
 * [LSP Find References Feature](https://github.com/adobe/brackets/pull/14693) by [niteskum](https://github.com/niteskum)
 
 
