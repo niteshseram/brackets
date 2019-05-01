@@ -1,6 +1,6 @@
 What's New in Release 1.14
 -------------------------
-* [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333 and shubhsnov](https://github.com/subhashjha333) : Description
+* [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333](https://github.com/subhashjha333) and [shubhsnov](https://github.com/shubhsnov) : Description
 * [Php Tooling Extensions Using LSP Framework](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum) : Description
 
 
