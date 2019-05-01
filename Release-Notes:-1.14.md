@@ -10,23 +10,53 @@ _Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release
 Community contributions to Brackets
 -----------------------------------
 
-* [Fix for 13839: Crash on opening file with error "sharing violation".](https://github.com/adobe/brackets-shell/pull/635) by [nethip](https://github.com/nethip)
-* [Fix #13099: Disallow user to create files/folder using relative path](https://github.com/adobe/brackets/pull/13256) by [sdalmeida](https://github.com/sdalmeida)
-* [Issue #11261: keep the search bar open](https://github.com/adobe/brackets/pull/14141) by [petetnt](https://github.com/petetnt)
-* [Linux native menus checked entries](https://github.com/adobe/brackets-shell/pull/633) by [pelatx](https://github.com/pelatx)
-* [Bringing in ImmutableJS 3.8.2 ](https://github.com/adobe/brackets/pull/14168) by [vickramdhawal](https://github.com/vickramdhawal)
-* [Add 'onHighlight' optional event callback mechanisfor better extensibility features in hint providers](https://github.com/adobe/brackets/pull/14140) by [swmitra](https://github.com/swmitra)
-* [Fix layout issue in submenu](https://github.com/adobe/brackets/pull/14073) by [boopeshmahendran](https://github.com/boopeshmahendran)
-* [Fix to avoid window location change confirmation dialog while running tests - onbeforeunload conditional registration](https://github.com/adobe/brackets/pull/14169) by [swmitra](https://github.com/swmitra)
-* [Fix full screen window issue in multiple montiors](https://github.com/adobe/brackets-shell/pull/638) by [sobisht](https://github.com/sobisht)
-* [Linux native menus lost shortcuts](https://github.com/adobe/brackets-shell/pull/637) by [pelatx](https://github.com/pelatx)
-* [AutoUpdate Feature Health Data Logging Changes](https://github.com/adobe/brackets-shell/pull/639) by [niteskum](https://github.com/niteskum)
-* [Adding Analytics logging for JSRefactor, Live Preview, Quick Edit and more features](https://github.com/adobe/brackets/pull/14253) by [sobisht](https://github.com/sobisht)
-* [Disable GPU for Ubuntu18.04](https://github.com/adobe/brackets-shell/pull/648) by [gautam0217](https://github.com/gautam0217)
-* [Build fixes for Ubuntu18.04](https://github.com/adobe/brackets-shell/pull/649) by [gautam0217](https://github.com/gautam0217)
-* [Fixing issue 14163, F&R replaces all content of file when replacing new line](https://github.com/adobe/brackets/pull/14175) by [navch](https://github.com/navch)
-* [Fix Issue 14149 - Fixes Dns rebinding attack in CEF](https://github.com/adobe/brackets-shell/pull/651) by [sabanaya](https://github.com/sabanaya)
-* [Linux: Add a check for file exist when "Show in OS" is clicked](https://github.com/adobe/brackets-shell/pull/650) by [sobisht](https://github.com/sobisht)
+
+* m [Forcefully disabling renderer accesibility](https://github.com/adobe/brackets-shell/pull/660) by nethip
+* m [Executing default update process handler, in case auto-update fails.](https://github.com/adobe/brackets/pull/14605) by nethip
+* m [ALF Automation](https://github.com/adobe/brackets/pull/14699) by walfgithub
+* m [ALF Automation](https://github.com/adobe/brackets/pull/14701) by walfgithub
+* m [ALF Automation](https://github.com/adobe/brackets/pull/14702) by walfgithub
+* m [ALF Automation](https://github.com/adobe/brackets/pull/14721) by walfgithub
+* m [ALF Automation](https://github.com/adobe/brackets/pull/14723) by walfgithub
+* m [ALF Automation](https://github.com/adobe/brackets/pull/14727) by walfgithub
+* m [AutoUpdate Mac Installer Script Administrator privileges changes](https://github.com/adobe/brackets-shell/pull/656) by [niteskum](https://github.com/niteskum)
+* m [Linux window size and position ](https://github.com/adobe/brackets-shell/pull/636) by [pelatx](https://github.com/pelatx)
+* m [Upgrading node to v6.14.0](https://github.com/adobe/brackets-shell/pull/653) by [subhashjha333](https://github.com/subhashjha333)
+* m [Auto Update Error Handlng Fix](https://github.com/adobe/brackets/pull/14412) by [niteskum](https://github.com/niteskum)
+* m [JSRefactoring Bugs Fix](https://github.com/adobe/brackets/pull/14455) by [niteskum](https://github.com/niteskum)
+* m [Fixed ExtractToVariable Menu Close Issue due to scrolling](https://github.com/adobe/brackets/pull/14492) by [niteskum](https://github.com/niteskum)
+* m [Fixed Getter Setter Redo Issue](https://github.com/adobe/brackets/pull/14508) by [niteskum](https://github.com/niteskum)
+* m [jsRefactor Rename Relative Path issue fixed](https://github.com/adobe/brackets/pull/14520) by [niteskum](https://github.com/niteskum)
+* ? [Add styles for stickyhighlight feature in livepreview](https://github.com/adobe/brackets/pull/14546) by [boopeshmahendran](https://github.com/boopeshmahendran)
+* ? [Enable DOMAgent in live preview](https://github.com/adobe/brackets/pull/14561) by [debajyotide](https://github.com/debajyotide)
+* ? [Add a method to get live doc parent path](https://github.com/adobe/brackets/pull/14564) by [debajyotide](https://github.com/debajyotide)
+* m [Fixing the mac debug build](https://github.com/adobe/brackets-shell/pull/657) by [vickramdhawal](https://github.com/vickramdhawal)
+* m [Update CSSProperties.json for text-align and text-justify](https://github.com/adobe/brackets/pull/14563) by [narayani28](https://github.com/narayani28)
+* m [Update notification - based on current platform](https://github.com/adobe/brackets/pull/14655) by [swmitra](https://github.com/swmitra)
+* m [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333](https://github.com/subhashjha333)
+* m [Language Server Protocol Support for Brackets - Fix Author](https://github.com/adobe/brackets/pull/14678) by [shubhsnov](https://github.com/shubhsnov)
+* m [Revert "Language Server Protocol Support for Brackets - Fix Author"](https://github.com/adobe/brackets/pull/14680) by [shubhsnov](https://github.com/shubhsnov)
+* m [Php Tooling Extensions Using LSP Framework](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum)
+* m [switching from anonymous to pseudonymous to align with the definition…](https://github.com/adobe/brackets/pull/14687) by [niteskum](https://github.com/niteskum)
+* m [Removing the old Brackets CLA check](https://github.com/adobe/brackets/pull/14684) by [shubhsnov](https://github.com/shubhsnov)
+* m [Fixed LSP Linting Synchronization Issues](https://github.com/adobe/brackets/pull/14685) by [niteskum](https://github.com/niteskum)
+* m [Php Tooling Strings changes](https://github.com/adobe/brackets/pull/14688) by [niteskum](https://github.com/niteskum)
+* m [Fix for "GetItNow" action behaviour](https://github.com/adobe/brackets/pull/14691) by [swmitra](https://github.com/swmitra)
+* m [Sending Analytics Data for file Operation and LSP features](https://github.com/adobe/brackets/pull/14683) by [niteskum](https://github.com/niteskum)
+* m [Fix for PHPCodeHints invocation failure scenarios](https://github.com/adobe/brackets/pull/14692) by [shubhsnov](https://github.com/shubhsnov)
+* m [PHPCodeHints : Select initial element in the hint list](https://github.com/adobe/brackets/pull/14694) by [shubhsnov](https://github.com/shubhsnov)
+* m [Fix : Error occurs when dismissing QuickOpen dialog when no document is open](https://github.com/adobe/brackets/pull/14698) by [shubhsnov](https://github.com/shubhsnov)
+* m [Changes to send data only once per 24 hours](https://github.com/adobe/brackets/pull/14695) by [SnchitGrover](https://github.com/SnchitGrover)
+* m [Sending New File Save/Open Analytics Data](https://github.com/adobe/brackets/pull/14700) by [niteskum](https://github.com/niteskum)
+* m [Adding Code Hints Description Box for handling additional hint information in LSP](https://github.com/adobe/brackets/pull/14696) by [shubhsnov](https://github.com/shubhsnov)
+* m [Capability to Support Document & Project Symbols provided by a Language Server](https://github.com/adobe/brackets/pull/14697) by [shubhsnov](https://github.com/shubhsnov)
+* m [LSP Find References Feature](https://github.com/adobe/brackets/pull/14693) by [niteskum](https://github.com/niteskum)
+* m [Fixed Find References Issue in release build](https://github.com/adobe/brackets/pull/14705) by [niteskum](https://github.com/niteskum)
+* m [Fixed UriToPath Utill Function](https://github.com/adobe/brackets/pull/14706) by [niteskum](https://github.com/niteskum)
+* m [Fixed Blank Error Dialog Issue](https://github.com/adobe/brackets/pull/14719) by [niteskum](https://github.com/niteskum)
+* m [Changed Health Data Pop Up String to point to new wiki URL](https://github.com/adobe/brackets/pull/14709) by [niteskum](https://github.com/niteskum)
+* m [Reinitiate tooling service on Node process crash](https://github.com/adobe/brackets/pull/14724) by [shubhsnov](https://github.com/shubhsnov)
+* m [Fix for CodeHint Description CSS Issue](https://github.com/adobe/brackets/pull/14728) by [shubhsnov](https://github.com/shubhsnov)
 
 
 #### Pulling source code from Git
