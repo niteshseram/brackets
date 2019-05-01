@@ -43,4 +43,4 @@ _TODO: any brackets-shell updates? which of the below messages are applicable?_
 
 Bugs fixed in Release 1.14
 -------------------------
-For details on the bugs addressed, please refer to [closed Release 1.14 bugs](https://github.com/adobe/brackets/issues?q=is%3Aclosed+milestone%3A%22Release+1.13%22). Not all fixed bugs will be caught by this search query, however.
+For details on the bugs addressed, please refer to [closed Release 1.14 bugs](https://github.com/adobe/brackets/issues?q=is%3Aclosed+milestone%3A%22Release+1.14%22). Not all fixed bugs will be caught by this search query, however.
