@@ -5,7 +5,7 @@ What's New in Release 1.14
 * [Enable opening of remote(http|https) files in Brackets](https://github.com/adobe/brackets/pull/14153) by [swmitra](https://github.com/swmitra) : You can now open a remotely hosted web-page from within Brackets. Use Ctrl/Cmd-Shift-O shortcut and supply a URL to quickly open the file and review the code within Brackets.
 
 
-_Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.12...release-1.13#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.12...release-1.13#commits_bucket)
+_Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.13...release#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.13...release#commits_bucket)
 
 Community contributions to Brackets
 -----------------------------------
