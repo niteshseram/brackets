@@ -1,4 +1,4 @@
-What's New in Release 1.13
+What's New in Release 1.14
 -------------------------
 * [AutoUpdate Framework](https://github.com/adobe/brackets/pull/14177) by [mbhavi](https://github.com/mbhavi) : You can now automatically update Brackets, without leaving the code editor.
 * [Add drag and drop to move items in FileTreeView](https://github.com/adobe/brackets/pull/13546) by [boopeshmahendran](https://github.com/boopeshmahendran) : You can now manipulate folder structure from within Brackets. Move a file/folder from one folder to another with a simple drag and drop.
@@ -41,6 +41,6 @@ _TODO: any brackets-shell updates? which of the below messages are applicable?_
 * A submodule _URL_ was changed this sprint. Run `git submodule sync` and _then_ `git submodule update --init --recursive` to ensure your local source tree reflects the update.
 
 
-Bugs fixed in Release 1.13
+Bugs fixed in Release 1.14
 -------------------------
-For details on the bugs addressed, please refer to [closed Release 1.13 bugs](https://github.com/adobe/brackets/issues?q=is%3Aclosed+milestone%3A%22Release+1.13%22). Not all fixed bugs will be caught by this search query, however.
+For details on the bugs addressed, please refer to [closed Release 1.14 bugs](https://github.com/adobe/brackets/issues?q=is%3Aclosed+milestone%3A%22Release+1.13%22). Not all fixed bugs will be caught by this search query, however.
