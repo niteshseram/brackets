@@ -20,7 +20,6 @@ Community contributions to Brackets
 * [Fixed ExtractToVariable Menu Close Issue due to scrolling](https://github.com/adobe/brackets/pull/14492) by [niteskum](https://github.com/niteskum)
 * [Fixed Getter Setter Redo Issue](https://github.com/adobe/brackets/pull/14508) by [niteskum](https://github.com/niteskum)
 * [jsRefactor Rename Relative Path issue fixed](https://github.com/adobe/brackets/pull/14520) by [niteskum](https://github.com/niteskum)
-* [Add styles for stickyhighlight feature in livepreview](https://github.com/adobe/brackets/pull/14546) by [boopeshmahendran](https://github.com/boopeshmahendran)
 * [Fixing the mac debug build](https://github.com/adobe/brackets-shell/pull/657) by [vickramdhawal](https://github.com/vickramdhawal)
 * [Update CSSProperties.json for text-align and text-justify](https://github.com/adobe/brackets/pull/14563) by [narayani28](https://github.com/narayani28)
 * [Update notification - based on current platform](https://github.com/adobe/brackets/pull/14655) by [swmitra](https://github.com/swmitra)
