@@ -11,38 +11,32 @@ Community contributions to Brackets
 -----------------------------------
 
 
-* m [Forcefully disabling renderer accesibility](https://github.com/adobe/brackets-shell/pull/660) by nethip
-* m [Executing default update process handler, in case auto-update fails.](https://github.com/adobe/brackets/pull/14605) by nethip
-* m [ALF Automation](https://github.com/adobe/brackets/pull/14699) by walfgithub
-* m [ALF Automation](https://github.com/adobe/brackets/pull/14701) by walfgithub
-* m [ALF Automation](https://github.com/adobe/brackets/pull/14702) by walfgithub
-* m [ALF Automation](https://github.com/adobe/brackets/pull/14721) by walfgithub
-* m [ALF Automation](https://github.com/adobe/brackets/pull/14723) by walfgithub
-* m [ALF Automation](https://github.com/adobe/brackets/pull/14727) by walfgithub
-* m [AutoUpdate Mac Installer Script Administrator privileges changes](https://github.com/adobe/brackets-shell/pull/656) by [niteskum](https://github.com/niteskum)
-* m [Linux window size and position ](https://github.com/adobe/brackets-shell/pull/636) by [pelatx](https://github.com/pelatx)
-* m [Upgrading node to v6.14.0](https://github.com/adobe/brackets-shell/pull/653) by [subhashjha333](https://github.com/subhashjha333)
-* m [Auto Update Error Handlng Fix](https://github.com/adobe/brackets/pull/14412) by [niteskum](https://github.com/niteskum)
-* m [JSRefactoring Bugs Fix](https://github.com/adobe/brackets/pull/14455) by [niteskum](https://github.com/niteskum)
-* m [Fixed ExtractToVariable Menu Close Issue due to scrolling](https://github.com/adobe/brackets/pull/14492) by [niteskum](https://github.com/niteskum)
-* m [Fixed Getter Setter Redo Issue](https://github.com/adobe/brackets/pull/14508) by [niteskum](https://github.com/niteskum)
-* m [jsRefactor Rename Relative Path issue fixed](https://github.com/adobe/brackets/pull/14520) by [niteskum](https://github.com/niteskum)
+* [Forcefully disabling renderer accesibility](https://github.com/adobe/brackets-shell/pull/660) by nethip
+* [Executing default update process handler, in case auto-update fails.](https://github.com/adobe/brackets/pull/14605) by nethip
+* [AutoUpdate Mac Installer Script Administrator privileges changes](https://github.com/adobe/brackets-shell/pull/656) by [niteskum](https://github.com/niteskum)
+* [Linux window size and position ](https://github.com/adobe/brackets-shell/pull/636) by [pelatx](https://github.com/pelatx)
+* [Upgrading node to v6.14.0](https://github.com/adobe/brackets-shell/pull/653) by [subhashjha333](https://github.com/subhashjha333)
+* [Auto Update Error Handlng Fix](https://github.com/adobe/brackets/pull/14412) by [niteskum](https://github.com/niteskum)
+* [JSRefactoring Bugs Fix](https://github.com/adobe/brackets/pull/14455) by [niteskum](https://github.com/niteskum)
+* [Fixed ExtractToVariable Menu Close Issue due to scrolling](https://github.com/adobe/brackets/pull/14492) by [niteskum](https://github.com/niteskum)
+* [Fixed Getter Setter Redo Issue](https://github.com/adobe/brackets/pull/14508) by [niteskum](https://github.com/niteskum)
+* [jsRefactor Rename Relative Path issue fixed](https://github.com/adobe/brackets/pull/14520) by [niteskum](https://github.com/niteskum)
 * ? [Add styles for stickyhighlight feature in livepreview](https://github.com/adobe/brackets/pull/14546) by [boopeshmahendran](https://github.com/boopeshmahendran)
 * ? [Enable DOMAgent in live preview](https://github.com/adobe/brackets/pull/14561) by [debajyotide](https://github.com/debajyotide)
 * ? [Add a method to get live doc parent path](https://github.com/adobe/brackets/pull/14564) by [debajyotide](https://github.com/debajyotide)
-* m [Fixing the mac debug build](https://github.com/adobe/brackets-shell/pull/657) by [vickramdhawal](https://github.com/vickramdhawal)
-* m [Update CSSProperties.json for text-align and text-justify](https://github.com/adobe/brackets/pull/14563) by [narayani28](https://github.com/narayani28)
-* m [Update notification - based on current platform](https://github.com/adobe/brackets/pull/14655) by [swmitra](https://github.com/swmitra)
-* m [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333](https://github.com/subhashjha333)
-* m [Language Server Protocol Support for Brackets - Fix Author](https://github.com/adobe/brackets/pull/14678) by [shubhsnov](https://github.com/shubhsnov)
-* m [Revert "Language Server Protocol Support for Brackets - Fix Author"](https://github.com/adobe/brackets/pull/14680) by [shubhsnov](https://github.com/shubhsnov)
-* m [Php Tooling Extensions Using LSP Framework](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum)
-* m [switching from anonymous to pseudonymous to align with the definition…](https://github.com/adobe/brackets/pull/14687) by [niteskum](https://github.com/niteskum)
-* m [Removing the old Brackets CLA check](https://github.com/adobe/brackets/pull/14684) by [shubhsnov](https://github.com/shubhsnov)
-* m [Fixed LSP Linting Synchronization Issues](https://github.com/adobe/brackets/pull/14685) by [niteskum](https://github.com/niteskum)
-* m [Php Tooling Strings changes](https://github.com/adobe/brackets/pull/14688) by [niteskum](https://github.com/niteskum)
-* m [Fix for "GetItNow" action behaviour](https://github.com/adobe/brackets/pull/14691) by [swmitra](https://github.com/swmitra)
-* m [Sending Analytics Data for file Operation and LSP features](https://github.com/adobe/brackets/pull/14683) by [niteskum](https://github.com/niteskum)
+* [Fixing the mac debug build](https://github.com/adobe/brackets-shell/pull/657) by [vickramdhawal](https://github.com/vickramdhawal)
+* [Update CSSProperties.json for text-align and text-justify](https://github.com/adobe/brackets/pull/14563) by [narayani28](https://github.com/narayani28)
+* [Update notification - based on current platform](https://github.com/adobe/brackets/pull/14655) by [swmitra](https://github.com/swmitra)
+* [Language Server Protocol Support for Brackets](https://github.com/adobe/brackets/pull/14606) by [subhashjha333](https://github.com/subhashjha333)
+* [Language Server Protocol Support for Brackets - Fix Author](https://github.com/adobe/brackets/pull/14678) by [shubhsnov](https://github.com/shubhsnov)
+* [Revert "Language Server Protocol Support for Brackets - Fix Author"](https://github.com/adobe/brackets/pull/14680) by [shubhsnov](https://github.com/shubhsnov)
+* [Php Tooling Extensions Using LSP Framework](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum)
+* [switching from anonymous to pseudonymous to align with the definition…](https://github.com/adobe/brackets/pull/14687) by [niteskum](https://github.com/niteskum)
+* [Removing the old Brackets CLA check](https://github.com/adobe/brackets/pull/14684) by [shubhsnov](https://github.com/shubhsnov)
+* [Fixed LSP Linting Synchronization Issues](https://github.com/adobe/brackets/pull/14685) by [niteskum](https://github.com/niteskum)
+* [Php Tooling Strings changes](https://github.com/adobe/brackets/pull/14688) by [niteskum](https://github.com/niteskum)
+* [Fix for "GetItNow" action behaviour](https://github.com/adobe/brackets/pull/14691) by [swmitra](https://github.com/swmitra)
+* [Sending Analytics Data for file Operation and LSP features](https://github.com/adobe/brackets/pull/14683) by [niteskum](https://github.com/niteskum)
 * m [Fix for PHPCodeHints invocation failure scenarios](https://github.com/adobe/brackets/pull/14692) by [shubhsnov](https://github.com/shubhsnov)
 * m [PHPCodeHints : Select initial element in the hint list](https://github.com/adobe/brackets/pull/14694) by [shubhsnov](https://github.com/shubhsnov)
 * m [Fix : Error occurs when dismissing QuickOpen dialog when no document is open](https://github.com/adobe/brackets/pull/14698) by [shubhsnov](https://github.com/shubhsnov)
