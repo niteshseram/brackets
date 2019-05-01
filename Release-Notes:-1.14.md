@@ -21,8 +21,6 @@ Community contributions to Brackets
 * [Fixed Getter Setter Redo Issue](https://github.com/adobe/brackets/pull/14508) by [niteskum](https://github.com/niteskum)
 * [jsRefactor Rename Relative Path issue fixed](https://github.com/adobe/brackets/pull/14520) by [niteskum](https://github.com/niteskum)
 * [Add styles for stickyhighlight feature in livepreview](https://github.com/adobe/brackets/pull/14546) by [boopeshmahendran](https://github.com/boopeshmahendran)
-* [Enable DOMAgent in live preview](https://github.com/adobe/brackets/pull/14561) by [debajyotide](https://github.com/debajyotide)
-* [Add a method to get live doc parent path](https://github.com/adobe/brackets/pull/14564) by [debajyotide](https://github.com/debajyotide)
 * [Fixing the mac debug build](https://github.com/adobe/brackets-shell/pull/657) by [vickramdhawal](https://github.com/vickramdhawal)
 * [Update CSSProperties.json for text-align and text-justify](https://github.com/adobe/brackets/pull/14563) by [narayani28](https://github.com/narayani28)
 * [Update notification - based on current platform](https://github.com/adobe/brackets/pull/14655) by [swmitra](https://github.com/swmitra)
