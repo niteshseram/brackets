@@ -2,8 +2,6 @@ What's New in Release 1.14
 -------------------------
 * [**Language Server Protocol Support for Brackets**](https://github.com/adobe/brackets/pull/14606) by [subhashjha333](https://github.com/subhashjha333) and [shubhsnov](https://github.com/shubhsnov) : Brackets now supports Language Server Protocol. The inbuilt language client can be used and customized to facilitate integration of language servers (such as PHP, Python, and more) to provide features like code hinting, parameter hinting, jump to definition etc.
 * [**Php Tooling Extensions Using LSP Framework**](https://github.com/adobe/brackets/pull/14671) by [niteskum](https://github.com/niteskum) : Brackets now supports PHP via integration of a PHP language server. When writing PHP code, you can take advantage of code hinting, function parameter hinting, jump to definition, document and project wide symbols, find references and linting.
-* [**In App Notifications in Brackets**](https://github.com/adobe/brackets/pull/14715) by [swmitra](https://github.com/niteskum)
-
 
 _Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.13...release#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.13...release#commits_bucket)
 
@@ -37,6 +35,7 @@ Community contributions to Brackets
 * [Adding Code Hints Description Box for handling additional hint information in LSP](https://github.com/adobe/brackets/pull/14696) by [shubhsnov](https://github.com/shubhsnov)
 * [Capability to Support Document & Project Symbols provided by a Language Server](https://github.com/adobe/brackets/pull/14697) by [shubhsnov](https://github.com/shubhsnov)
 * [LSP Find References Feature](https://github.com/adobe/brackets/pull/14693) by [niteskum](https://github.com/niteskum)
+* [In App Notifications in Brackets](https://github.com/adobe/brackets/pull/14715) by [swmitra](https://github.com/swmitra)
 
 
 #### Pulling source code from Git
