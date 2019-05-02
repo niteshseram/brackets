@@ -39,7 +39,6 @@ Community contributions to Brackets
 
 
 #### Pulling source code from Git
-_TODO: any brackets-shell updates? which of the below messages are applicable?_
 
 * A new brackets-shell build is _required_ for this sprint. Be sure to rerun `grunt setup` before building.
 * Recommended: rebuild or reinstall an updated brackets-shell (no critical updates, but there are bugfixes).
