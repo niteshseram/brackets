@@ -805,4 +805,11 @@ So, if you create a new extension for Brackets, follow the same process and add 
         <td class="shortcut-cmd-name">Find All References</td>
         <td class="shortcut-orig">Brackets</td>
     </tr>
+    <tr>
+        <td class="shortcut-base">T</td>
+        <td class="shortcut-binding">Ctrl-Shift-T</td>
+        <td class="shortcut-cmd-id">navigate.gotoDefinitionInProject</td>
+        <td class="shortcut-cmd-name">Quick Find Definition in Project</td>
+        <td class="shortcut-orig">Brackets</td>
+    </tr>
 </table>
