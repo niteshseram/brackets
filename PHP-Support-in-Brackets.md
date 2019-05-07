@@ -1,4 +1,4 @@
-### We've introduced the PHP support in Brackets, powered by the [PHP language server](https://github.com/felixfbecker/php-language-server).
+### We've introduced the PHP support in Brackets 1.14, powered by the [PHP language server](https://github.com/felixfbecker/php-language-server).
 
 ### Brackets now supports the following features for PHP:
 
