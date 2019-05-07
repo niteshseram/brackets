@@ -20,6 +20,8 @@
   <img src="https://github.com/shubhsnov/brackets/raw/LSP-Images/ProSym.gif" alt="Linting" width="750px">
 
 ### PHP in Brackets can also be configured using custom settings in `brackets.json`:
+- Go to `Debug > Open Preferences File`
+
 ```javascript
 // PHP Tooling default configuration settings
 "php": {
