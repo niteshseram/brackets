@@ -2,7 +2,22 @@
 
 **Note:** The PHP features will only work if Brackets is able to find a valid PHP7 runtime in the system path, or if a valid PHP7 executable path configuration is set in `brackets.json`. Click [here](https://github.com/adobe/brackets/wiki/PHP-Support-in-Brackets#php-in-brackets-can-also-be-configured-using-custom-settings-in-bracketsjson) to understand about other PHP settings.
 
-### Brackets now supports the following features for PHP:
+
+### PHP in Brackets can be configured using custom settings in `brackets.json`:
+- Go to `Debug > Open Preferences File`
+
+```javascript
+// PHP Tooling default configuration settings
+"php": {
+        "enablePhpTooling": true, //false to disable PHP features
+	"executablePath": "php"//Path format: "C:\\path\\to\\php.exe" for WIN  or "/Users/someuser/bin/php" for MAC & Linux
+	"memoryLimit": "4095M", //Specify a memory limit for the PHP language server process
+	"validateOnType": "false" //Configuration to have diagnostics "on type" or "on save"
+}
+```
+**Note: Don't forget to remove comments while using as valid JSONs can't have comments.**
+
+### Brackets supports the following features for PHP:
 
 - **Code Hinting**  - Open a PHP file and just get going...
   <img src="https://github.com/shubhsnov/brackets/raw/LSP-Images/codehints.gif" alt="Code Hinting" width="750px">
@@ -19,16 +34,3 @@
 - **Find Project Symbols** - `Ctrl-Shift-T` to list all the project wide symbols...
   <img src="https://github.com/shubhsnov/brackets/raw/LSP-Images/ProSym.gif" alt="Linting" width="750px">
 
-### PHP in Brackets can also be configured using custom settings in `brackets.json`:
-- Go to `Debug > Open Preferences File`
-
-```javascript
-// PHP Tooling default configuration settings
-"php": {
-        "enablePhpTooling": true, //false to disable PHP features
-	"executablePath": "php"//Path format: "C:\\path\\to\\php.exe" for WIN  or "/Users/someuser/bin/php" for MAC & Linux
-	"memoryLimit": "4095M", //Specify a memory limit for the PHP language server process
-	"validateOnType": "false" //Configuration to have diagnostics "on type" or "on save"
-}
-```
-**Note: Don't forget to remove comments while using as valid JSONs can't have comments.**
