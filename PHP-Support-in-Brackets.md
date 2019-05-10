@@ -25,9 +25,9 @@
 ```javascript
 // PHP Tooling default configuration settings
 "php": {
-        "enablePhpTooling": true,
-	"executablePath": "php"//Path format: "C:\\path\\to\\php.exe" for WIN  or "/Users/someuser/bin/php" for MAC
-	"memoryLimit": "4095M", //Recommended to increase to 20000M or up for bigger projects, -1 for infinite memory
+        "enablePhpTooling": true, //false to disable PHP features
+	"executablePath": "php"//Path format: "C:\\path\\to\\php.exe" for WIN  or "/Users/someuser/bin/php" for MAC & Linux
+	"memoryLimit": "4095M", //Specify a memory limit for the PHP language server process
 	"validateOnType": "false" //Configuration to have diagnostics "on type" or "on save"
 }
 ```
