@@ -58,6 +58,9 @@ Welcome to the Brackets wiki! Here are some resources to help you get started.
 
 * [Downloads](http://download.brackets.io)
 * Release Notes:
+ * [Release 1.14](https://github.com/adobe/brackets/wiki/Release-Notes:-1.14)
+ * [Release 1.13](https://github.com/adobe/brackets/wiki/Release-Notes:-1.13)
+ * [Release 1.12](https://github.com/adobe/brackets/wiki/Release-Notes:-1.12)
  * [Release 1.11](https://github.com/adobe/brackets/wiki/Release-Notes:-1.11)
  * [Release 1.10](https://github.com/adobe/brackets/wiki/Release-Notes:-1.10)
  * [Release 1.9](https://github.com/adobe/brackets/wiki/Release-Notes:-1.9)
