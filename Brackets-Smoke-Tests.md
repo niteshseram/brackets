@@ -54,6 +54,8 @@ Smoke test steps
 1. Change the language mode to Javascript from bottom-right dropdown.
 1. Verify that code coloring is applied.
 1. Repeat the steps 17 to 23.
+1. Install an extension from Extension Manager (eg. Theme Editor, Beautify) and perform Debug Menu - > Reload with Extensions 3-4 times (Brackets should get the Extension installed on reloading with Extensions).
+1. Install some extensions from Extension Manager and perform Debug Menu -> Reload Without Extensions 3-4 times (Brackets should not have the installed Extensions on reloading without Extensions).
 1. `File > New`
 1. Change the encoding to EUC-JP and copy the following content
 ```水（みず）は、化学的には化学式 H2O で表される水素と酸素の化合物。
