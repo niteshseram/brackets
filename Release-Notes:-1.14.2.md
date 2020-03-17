@@ -1,5 +1,5 @@
 ## Brackets 1.14.2 is here!
-**Open File in external Applications**](https://github.com/adobe/brackets/pull/15088) 
+[**Open File in external Applications**](https://github.com/adobe/brackets/pull/15088) 
 Brackets now offers support to open file of any arbitary type with any external applications. in User Preferences settings, You can associate a file extension to its OS default application or application you want.
 
 Usage:
