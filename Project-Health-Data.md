@@ -50,7 +50,7 @@ Brackets sends one Health Report update every 24 hours, only while Brackets is r
 * `event.guid` - A randomly-generated, pseudonymous id.
 * `event.user_guid`- A randomly-generated, pseudonymous id.
 * `event.category` - Category of event.
-* `event.subcategory` - Subcategory of event - (JS Refactor, Quick Edit, Quick Docs, Auto Update, Live Preview, Project Settings).
+* `event.subcategory` - Subcategory of event - (JS Refactor, Quick Edit, Quick Docs, Auto Update, Live Preview, Project Settings, externalEditors).
 * `event.type` - Type of event.
 * `event.subtype` - Type of Entry point for a particular event. 
 * `event.user_agent` - User Agent.
