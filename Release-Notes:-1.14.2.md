@@ -12,7 +12,7 @@ You may also pass in the app's full path. For example on Windows, this can be "C
 
 * [**Automatically associate Graphics file types to its OS default application**](https://github.com/adobe/brackets/pull/15092) by [niteskum](https://github.com/niteskum) :  If an opened project folder has any graphics file of type: ["xd", "jpg", "jpeg", "svg", "ai", "png", "psd"], then with user’s consent Brackets will associate these graphics file types with its OS default associated application and record this under user preference settings under the category “externalApplications”.
 
-_Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.14.1...release#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.14.1...release-1.14.2#commits_bucket)
+_Full change logs:_ [brackets](https://github.com/adobe/brackets/compare/release-1.14.1...release-1.14.2#commits_bucket) and [brackets-shell](https://github.com/adobe/brackets-shell/compare/release-1.14.1...release-1.14.2#commits_bucket)
 
 Community contributions to Brackets
 -----------------------------------
