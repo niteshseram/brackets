@@ -8,7 +8,7 @@ Usage: For example, Preferences settings for associating svg files to open with 
 
 The application's name in this settings is OS dependant, for example if you would like to open a file with Chrome you have to use "google chrome" on macOS and "chrome" on Windows in your settings. We use the open npm utility under the hood , and settings that works with this utility will work here.
 
-You may also pass in the app's full path. For example on Windows, this can be "C://Program Files (x86)//Google/Chrome//Application//chrome.exe" for the Windows installation of Chrome.
+You may also pass in the app's full path. For example on Windows, this can be "C:\\Program Files (x86)\\Google Chrome\\Application\\chrome.exe" for the Windows installation of Chrome.
 
 * [**Automatically associate Graphics file types to its OS default application**](https://github.com/adobe/brackets/pull/15092) by [niteskum](https://github.com/niteskum) :  If an opened project folder has any graphics file of type: ["xd", "jpg", "jpeg", "svg", "ai", "png", "psd"], then with user’s consent Brackets will associate these graphics file types with its OS default associated application and record this under user preference settings under the category “externalApplications”.
 
